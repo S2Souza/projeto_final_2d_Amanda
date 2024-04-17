@@ -6,10 +6,10 @@ background-color: rgb(253, 146, 146);}
 h2 {color: rgb(82, 121, 10);
 text-align: center;}
 #px { width: 50%; 
-border: 10px;
+border-width: 10px;
 border-style: dotted;
 border-color: blue;}
 
 a { font-size: 200%;}
 #bicu { width: 50%;}
-#pp {width: 70%;}
+#pp {width: 50%;}
