@@ -10,6 +10,13 @@ border-width: 10px;
 border-style: dotted;
 border-color: blue;}
 
-a { font-size: 200%;}
+a { font-size: 200%;
+    border-width: 10px;
+    border-style: dotted;
+    border-color: blue;}
 #bicu { width: 50%;}
-#pp {width: 50%;}
+#pp {width: 50%;
+    border-width: 10px;
+    border-style: dotted;
+    border-color: blue; 
+margin-left: 20%;}
